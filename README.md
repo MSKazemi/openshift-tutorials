@@ -1,4 +1,4 @@
-# MSKazemi Platform Learning
+# Platform Learning
 
 Independent learning materials about Kubernetes and **Red Hat® OpenShift® Container Platform**: practical explanations, architecture diagrams, and labs as they are verified.
 
